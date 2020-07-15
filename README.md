@@ -46,4 +46,5 @@ Venv settings for the Sublime Text 3. For Linux (Ubuntu) and Windows 10
       {
       "cmd": ["C:/Users/Rafi/Desktop/test/Scripts/python", "$file"]
       }
+   *Remember the forward slashes*
 
