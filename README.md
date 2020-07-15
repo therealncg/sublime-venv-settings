@@ -7,11 +7,16 @@ Venv settings for the Sublime Text 3. For Linux (Ubuntu) and Windows 10
 
     python3 -m venv /home/rafi/Desktop/test
     
+  > You may need to type this down code, if the terminal ask you to type this, go ahead and do what it says!
+  
+    sudo apt-get install python3-venv
+   > If it is not asked no need to type the above line
+    
 * To activate Venv [source /location/bin/activate]
 
       source /home/rafi/Desktop/test/bin/activate
     
-* Alternate way to activate Venv [dot(.) /location/bin/activate]
+> Alternate way to activate Venv [dot(.) /location/bin/activate]
 
       . /home/rafi/Desktop/test/bin/activate
 
